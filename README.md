@@ -1,4 +1,9 @@
 # next-r3f-sample
+
+https://github.com/user-attachments/assets/7f553f03-89eb-48c1-9e2f-ed9d0d3ada6d
+
+
+
 react-three-fiberを使ったサンプル
 
 そのほかにframer-motionも活用
